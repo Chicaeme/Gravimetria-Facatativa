@@ -1,1 +1,7 @@
 ~$*
+*.lock
+*.gdb/
+.backups/
+Index/
+GpMessages/
+ImportLog/
